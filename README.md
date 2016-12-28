@@ -1,1 +1,1 @@
-# tumorSegmentation
+A interface é o arquivo classificadorGUI.m
